@@ -12,7 +12,7 @@ In dashboard page also reset password and logut button are availbale.
 
 When you click on reset password button then reset password page is open in reset password page you can reset password with current password, new password and confirm new password after filing this three textbox click on submit button your password are updated.
 
-You can logout using logout button.
+You can logout from the current user using logout button.
 
 
 
